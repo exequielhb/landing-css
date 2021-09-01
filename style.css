@@ -1,0 +1,19 @@
+#container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+img {
+    width: 30%;
+    margin: 1.4%;
+    margin: left;
+}
+
+h1 {
+    margin: 1.4%;
+    font-size: 32px;
+    font-family: 'Oxygen', sans-serif;
+    text-transform: uppercase;
+    border-bottom: 1px solid #da0b0b;
+    width: 18%;
+}
